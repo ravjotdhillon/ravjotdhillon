@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravjot Dhillon</h1>
 <h3 align="center">An ambitious Computer Science student from Windsor, ON</h3>
 
-- 🌱 I’m currently learning **Web Responsive Design**
+- 🌱 I’m currently learning **Responsive Web Design**
 
 - 📫 How to reach me **dhillo17@uwindsor.ca**
 
